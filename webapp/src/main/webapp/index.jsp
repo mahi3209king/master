@@ -4,7 +4,6 @@
     <title>Inline CSS Form</title>
 </head>
 <body>
-    <h1>Inline CSS Form</h1>
 
     <form style="max-width: 400px; margin: 0 auto;">
         <label for="name">Name:</label>
